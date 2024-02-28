@@ -1,3 +1,4 @@
+//Write a C program to read the age of a candidate and determine whether he/she is eligible to cast his/her vote. (Use if-else)
 #include <stdio.h>
 void main(){
     int age;
