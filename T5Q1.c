@@ -9,3 +9,4 @@ void main(){
     else{
         printf("Sorry! You are not eligible to cast your vote.");
     }
+}
